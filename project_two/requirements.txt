@@ -1,0 +1,6 @@
+# lists of the packages to install.
+pandas
+numpy
+matplotlib
+plotsense
+pytest
