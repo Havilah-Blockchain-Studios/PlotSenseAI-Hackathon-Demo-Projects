@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## 🚀 Usage Example
 Run the demo script:
 ```bash
-python examples/demo_anomaly_detection.py
+python -m examples/demo_anomaly_detection.py
 ```
 Expected Output:
 Console printout of detected anomalies.
@@ -28,7 +28,7 @@ A PlotSense-generated visualization of the dataset.
 
 plotsense-anomaly-plugin/
 ├── plotsense_anomaly/
-│   ├── __init__.py
+│   ├── __init__.py      # tells Python plotsense_anomaly is a package (it can even be empty)
 │   ├── detection.py            # anomaly detection logic
 │   └── visualization.py        # connect anomalies → PlotSense
 ├── examples/
@@ -43,6 +43,6 @@ plotsense-anomaly-plugin/
 ## 🧪 Running Tests
 Run lightweight tests with:
 ```bash
-
+python -m pytest tests/test_detection.py
 ```
 
