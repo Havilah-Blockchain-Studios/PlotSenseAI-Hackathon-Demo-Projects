@@ -36,7 +36,7 @@ plotsense-anomaly-plugin/
 ├── tests/
 │   └── test_detection.py          # lightweight tests
 ├── README.md
-└── requirements.txt
+└── requirements.txt   # packages to be installed 
 
 ```
 

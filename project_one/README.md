@@ -32,11 +32,11 @@ Open the notebook:
 jupyter notebook ml_explainability_demo.ipynb
 ```
 
-📂 Files
+### 📂 Files
 * ml_explainability_demo.ipynb → Main demo notebook
 * README.md → Documentation
 
-🚀 Workflow Summary
+### 🚀 Workflow Summary
 
 1. Dataset: UCI Breast Cancer Recurrence (real-world data)
 
