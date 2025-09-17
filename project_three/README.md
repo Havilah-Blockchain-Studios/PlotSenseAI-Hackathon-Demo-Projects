@@ -76,6 +76,15 @@ Some features (AI explanations) require a Groq API key:
  - Each participant can use their own key without editing code.
 
 ## 🖼️ Screenshots
+ Recommendations + Visualization
 
 <img width="959" height="477" alt="screenshot_home" src="https://github.com/user-attachments/assets/ed833f8b-8cbe-4ef6-b091-6c554bfbb3af" />
 
+AI Explanation
+
+## 🛠️ Extending the App
+
+This project is hackathon-extensible:
+- Replace climate.csv with your own dataset (data/yourdata.csv).
+- Add more variables or filters in app.py.
+- Customize the layout in Streamlit for different storytelling themes.
