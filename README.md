@@ -185,7 +185,7 @@ Need help? We've got you covered:
 - [PlotSenseAI Official Website](https://plotsenseai.org)
 - [PlotSenseAI Documentation](https://docs.plotsenseai.org)
 - [Havilah Academy](https://havilahacademy.org)
-- [Hackathon Information](https://hackathon.plotsenseai.org)
+- [Hackathon Information](https://luma.com/koen723f)
 
 ---
 
