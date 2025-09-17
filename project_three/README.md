@@ -31,7 +31,7 @@ plotsense-data-storytelling/
 ## ⚙️ Installation & Setup
 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/plotsense-data-storytelling.git
+git clone https://github.com/Havilah-Blockchain-Studios/PlotSenseAI-Hackathon-Demo-Projects.git
 cd project_three
 ```
 
@@ -81,6 +81,8 @@ Some features (AI explanations) require a Groq API key:
 <img width="959" height="477" alt="screenshot_home" src="https://github.com/user-attachments/assets/ed833f8b-8cbe-4ef6-b091-6c554bfbb3af" />
 
 AI Explanation
+
+<img width="1919" height="897" alt="ai-explainer" src="https://github.com/user-attachments/assets/0010f069-bcdd-4f67-b1fc-f0d3c2c6fba0" />
 
 ## 🛠️ Extending the App
 
