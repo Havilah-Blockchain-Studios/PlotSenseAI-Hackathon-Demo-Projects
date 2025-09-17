@@ -33,7 +33,7 @@ PlotSenseAI-Hackathon-Demo-Projects/
 └── README.md                      # This file
 ```
 
-## 🎪 Demo Projects Overview
+## Demo Projects Overview
 
 ### 🔍 Project One: ML Explainability with UCI Dataset
 **Focus**: Machine Learning model interpretation and visualization
