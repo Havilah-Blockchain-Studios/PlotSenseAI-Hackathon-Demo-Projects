@@ -77,5 +77,5 @@ Some features (AI explanations) require a Groq API key:
 
 ## 🖼️ Screenshots
 ```markdown
-![App Screenshot](assets/screenshot_home.png)
+[App Screenshot](/project_three/assets/screenshot_home.png)
 ```
