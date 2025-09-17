@@ -32,7 +32,7 @@ plotsense-data-storytelling/
 1. Clone this repository
 ```bash
 git clone https://github.com/your-username/plotsense-data-storytelling.git
-cd plotsense-data-storytelling
+cd project_three
 ```
 
 2. Create a virtual environment (recommended)
