@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## 🚀 Usage Example
 Run the demo script:
 ```bash
-python -m examples/demo_anomaly_detection.py
+ python -m examples.demo_anomaly_detection
 ```
 Expected Output:
 Console printout of detected anomalies.
